@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="buttonLabel">Start!</string>
+    <string name="timeLabel">Time left: %1$d</string>
+    <string name="scoreLabel">Score: %1$d</string>
+    <string name="message">Game is over! Score is: %1$d</string>
+</resources>
