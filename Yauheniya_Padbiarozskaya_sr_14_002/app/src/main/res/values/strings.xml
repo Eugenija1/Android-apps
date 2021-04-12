@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Yauheniya_Padbiarozskaya_sr_14_00</string>
+    <string name="yesterday_rate">Yesterday rate : %1$s</string>
+    <string name="current_rate">Current rate: %1$s</string>
+    <string name="description1">Changes in %1$s rates for last 30 days</string>
+    <string name="description2">Changes in %1$s rates for last 7 days</string>
+    <string name="goldRate">Current gold rate: %1$s</string>
+    <string name="goldDesc">Gold rates for last 30 days</string>
+    <string name="curRatesButton">CURRENCY RATES</string>
+    <string name="goldRateButton">GOLD RATES</string>
+    <string name="currConvertButton">CURRENCY CONVERTER</string>
+    <string name="first_currency">1</string>
+    <string name="second_currency">second cur</string>
+    <string name="titleCurConventer">Currency conventer</string>
+    <string name="convertFromPLN">CONVERT FROM PLN</string>
+    <string name="convertToPLN">CONVERT TO PLN</string>
+    <string name="pln">PLN</string>
+</resources>
